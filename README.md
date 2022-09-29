@@ -38,7 +38,7 @@
 
 ## Questions
 
-* You can contact me via email or GitHub!
+* You can contact me via email or GitHub!.
 
     * Email: emilyporter920@gmail.com
     * GitHub Profile: Emily Porter || github.com/emilyporter920 
